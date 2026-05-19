@@ -6,7 +6,7 @@ I am an Information Technology and Computer Science student focused on developin
 
 ### 🚀 Technical Overview & Focus
 * 💻 **Current Focus:** Engineering an **AI-Powered E-Commerce Platform** designed to manage dynamic natural stone product variations using a robust **Supabase (PostgreSQL)** backend framework.
-* 🌾 **Local Impact Work:** Architected and deployed production-ready web platforms for local enterprises, including optimized agricultural asset management applications like the **Manzo Family Farm** site.
+* 🌾 **Local Impact Work:** Architected and deployed production-ready web platforms for local enterprises, including optimized agricultural asset management applications like the **A Humble Family Farm** site.
 * 📊 **Research Integration:** Experienced with data-driven predictive analysis tools (**Weka Data Mining** labs) and structured reference documentation metrics (**Mendeley APA 7th Edition**).
 
 ---
@@ -24,5 +24,5 @@ I am an Information Technology and Computer Science student focused on developin
 
 ### 📬 Let's Connect!
 * 💼 **GitHub Projects:** Check out my pinned repositories below to review my codebases.
-* 🌐 **Professional Profile:** [Connect with me on Facebook](https://facebook.com/your-joshlaihmanzo)
+* 🌐 **Professional Profile:** [Connect with me on Facebook](https://facebook.com/joshlaih_manzo)
 * 📧 **Direct Inquiry:** missjoshlaihmanzo@gmail.com
