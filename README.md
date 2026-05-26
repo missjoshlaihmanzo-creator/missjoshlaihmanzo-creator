@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joshlaih Manzo!
 
-I am an Information Technology and Computer Science student focused on developing responsive full-stack web applications, architecting modern data management flows, and applying technical systems to real-world local business solutions.
+I am an Information Technology  student focused on developing responsive full-stack web applications, architecting modern data management flows, and applying technical systems to real-world local business solutions.
 
 ---
 
